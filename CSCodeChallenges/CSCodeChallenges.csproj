@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSCodeChallenges.FibonacciEvenSum</StartupObject>
+    <StartupObject>CSCodeChallenges.LongestCollatz</StartupObject>
   </PropertyGroup>
 
 </Project>
